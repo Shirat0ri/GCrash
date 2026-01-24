@@ -9,7 +9,7 @@
 
 ### Satya Nadella -> Slopya Nuttela
 
-Avaliable on [Firefox](https://addons.mozilla.org/en-US/firefox/addon/microslop/), [Chrome](https://chromewebstore.google.com/detail/microslop/mlidmgkpgfmogmplpgifmkbhohpioknp) (still at 0.0.2, will take some time to come to 0.0.4)
+Avaliable on [Firefox](https://addons.mozilla.org/en-US/firefox/addon/microslop/), [Chrome](https://chromewebstore.google.com/detail/microslop/mlidmgkpgfmogmplpgifmkbhohpioknp)
 
 here are some images if you like
 
