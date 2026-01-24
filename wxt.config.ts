@@ -8,7 +8,7 @@ export default defineConfig({
         excludeSources: ["debub.log", "bun.lock"],
     },
     manifest: {
-        version: "0.0.4",
+        version: "0.0.5",
         name: "Microslop",
         short_name: "Microslop",
         description: "An extension that converts Microsoft to Microslop",
