@@ -1,19 +1,15 @@
 <div align="center">
-    <img alt="Microslop logo" src="public/icon/128.png" />
-    <h1>Microslop</h1>
+    <img alt="GCrash logo" src="public/icon/128.png" />
+    <h1>GCrash</h1>
 </div>
 
 ### An extension that converts
 
-### Microslop -> Microslop
+### GCash -> GCrash
 
-### Slopya Nuttela -> Slopya Nuttela
+### G-Xchange -> G-Xcrash
 
-Avaliable on [Firefox](https://addons.mozilla.org/en-US/firefox/addon/microslop/), [Chrome](https://chromewebstore.google.com/detail/microslop/mlidmgkpgfmogmplpgifmkbhohpioknp)
-
-> #### If you want more words to be added kindly post on [this discussion](https://github.com/4O4-wasd/Microslop/discussions/8) [https://github.com/4O4-wasd/Microslop/discussions/8]
-
-here are some images if you like
+<!-- here are some images if you like
 
 ## [Firefox](https://addons.mozilla.org/en-US/firefox/addon/microslop/)
 
