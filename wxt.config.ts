@@ -9,7 +9,7 @@ export default defineConfig({
     },
     manifest: {
         version: "0.0.5",
-        name: "GCrasg",
+        name: "GCrash",
         short_name: "gcrash_meme",
         description: "An extension that converts GCash to GCrash",
         host_permissions: ["*://*/*"],
